@@ -28,6 +28,11 @@ The two jupyter lab notebooks can be viewed by clicking on them or by can be vie
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kacpergrzenda/theory-of-algorithms/blob/main/post_correspondence_problem.ipynb) ```post_correspondence_problem.ipynb```
 <br>
 
+To Edit and View the notebook use Google Volab, the two notebooks can be accessed throught the two links below:
+https://colab.research.google.com/github/kacpergrzenda/theory-of-algorithms/blob/main/countdown.ipynb
+<br>
+https://colab.research.google.com/github/kacpergrzenda/theory-of-algorithms/blob/main/post_correspondence_problem.ipynb
+<br>
 You can also view and edit the files by cloning the repository to your desktop like so:
 
 1. Open a directory on your machine and in the command line of this directory Git Clone this GitHub repository.
